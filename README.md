@@ -352,6 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
+- [Marwan Ahmad](https://maroovic.github.io/maroovic/)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [MathisCool](https://mathiscool.is-a.dev)
